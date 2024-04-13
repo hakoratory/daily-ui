@@ -47,7 +47,7 @@ export default function SignUp() {
     <main>
       <div className="fixed top-0 left-0 w-full h-screen z-[-1]">
         <Image
-          src="/static/images/01_background.jpg"
+          src="/static/images/001_background.jpg"
           alt="背景"
           fill
         />
